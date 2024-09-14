@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/mf-apis-web-services-fuel-manager.props" />
-</Project>
